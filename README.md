@@ -4,7 +4,5 @@ In this project, an analysis was performed to determine how different factors an
 
 The goal of this project was to gain hands-on experience using real data readily available from the City of Calgary, as well as popular Python data analysis libraries such as Pandas and NumPy. In addition to these libraries, data visualization experience was gained through the use of Folium, Matplotlib, and Seaborn.
 
-The report for this project can be viewed in two ways:
-* Python notebook file
-* PDF (of the notebook)
+The report for this project can be viewed in the PDF of the ipynb file used during the data analysis and visualization.
 
